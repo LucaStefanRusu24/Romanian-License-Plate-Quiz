@@ -1,3 +1,5 @@
+# This is the main game with a GUI, made using Pygame.
+
 import pygame
 import random
 
